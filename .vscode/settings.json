@@ -5,13 +5,13 @@
 
     // --- Visual identity (purple) ---
     "workbench.colorCustomizations": {
-        "activityBar.background": "#5B3A9E",
-        "activityBar.foreground": "#ffffff",
+        "activityBar.background": "#50aa66",
+        "activityBar.foreground": "#c25959",
         "activityBar.inactiveForeground": "#ffffff99",
-        "titleBar.activeBackground": "#5B3A9E",
+        "titleBar.activeBackground": "#3a9e51",
         "titleBar.activeForeground": "#ffffff",
-        "titleBar.inactiveBackground": "#5B3A9E",
-        "titleBar.inactiveForeground": "#ffffff99"
+        "titleBar.inactiveBackground": "#3a975d",
+        "titleBar.inactiveForeground": "#29b02e99"
     },
 
     // --- Python ---
